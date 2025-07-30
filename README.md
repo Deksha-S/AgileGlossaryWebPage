@@ -25,3 +25,4 @@ This is a beginner-friendly web project that displays a simple, searchable gloss
 ## 🛠️ How to Run the Project Locally
 
 1. Clone the repo or download the ZIP:
+   
