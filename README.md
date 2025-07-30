@@ -20,9 +20,4 @@ This is a beginner-friendly web project that displays a simple, searchable gloss
 - JavaScript (Vanilla JS)
 - GitHub Pages (for deployment)
 
-
-
-## 🛠️ How to Run the Project Locally
-
-1. Clone the repo or download the ZIP:
    
